@@ -1,0 +1,9 @@
+{
+  "pythonPath": "C:/Users/Asus/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/python.exe",
+  "pythonVersion": "3.12",
+  "typeCheckingMode": "basic",
+  "exclude": ["venv"],
+  "extraPaths": [
+    "C:/Users/Asus/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/site-packages"
+  ]
+}
